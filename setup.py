@@ -8,7 +8,7 @@ with open("README.md", "r") as fh:
 
 dependencies = [
     "click==7.1.2",
-    "requests==2.24.0",
+    "requests==2.31.0",
     "sat-search==0.2.3",
     "rich==3.3.2",
     "tqdm==4.48.0",
